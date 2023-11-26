@@ -70,8 +70,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/karar0120/karar0120/output/snake.svg" alt="Snake animation" />
-
 ###
